@@ -1,9 +1,9 @@
 # cc_hunter
 
 Run in the directory you want to recusrively scan from. 
-Matches credit card without spacings only
+Matches credit cards without spacings only.
 
-Credit Card Finder by the most notorious of all turtles., notorious_turtle
+Credit card finder by the most notorious of all turtles, notorious_turtle.
 
 All rights reserved. Copyright 2017.
 
