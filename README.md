@@ -9,7 +9,7 @@ All rights reserved. Copyright 2017.
 
 # Sample output:
 
-cc_hunter $ python cc_hunter.py
-!!! Found 4111111111111111 in: ./backups.txt
-!!! Found 4111111111111111 in: ./working/asd.txt
-Scan complete, 3 files scanned
+    cc_hunter $ python cc_hunter.py
+    !!! Found 4111111111111111 in: ./backups.txt
+    !!! Found 4111111111111111 in: ./working/asd.txt
+    Scan complete, 3 files scanned
